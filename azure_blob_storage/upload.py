@@ -19,7 +19,7 @@ try:
         
     # Example usage:
 
-    connection_string = "DefaultEndpointsProtocol=https;AccountName=techpathwebsite;AccountKey=bUVR8fgoXk3565ALq06F+yK9ObXM0V6iEA7GqSz6FkcNw1YiFT9MRY1/Ztas5YooWF2EaJ+/vn5l+ASt6rM91A==;EndpointSuffix=core.windows.net"
+    connection_string = ""
     container_name = "website"
     local_file_path = "C:/Users/Ranjana/OneDrive - Techpath Research and Development PVT/Pictures/Screenshot_4.png"
     blob_name = "Screenshot_4.png"
